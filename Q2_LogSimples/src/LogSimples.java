@@ -29,4 +29,3 @@ public class LogSimples implements Iterable<String> {
     public Iterator<String> iterator() {
         return mensagens.iterator();
     }
-}
